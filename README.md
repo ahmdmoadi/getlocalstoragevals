@@ -1,0 +1,2 @@
+# getlocalstoragevals
+get localStorage Values
